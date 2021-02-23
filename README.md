@@ -1,24 +1,16 @@
+This is deployed at https://smart-tic-tac-toe.netlify.app/ 
+
 # tic-tac-toe
 
 ## Project setup
 ```
 yarn install
 ```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
 ### Compiles and minifies for production
 ```
 yarn build
 ```
-
-### Lints and fixes files
+#### Run project
 ```
-yarn lint
+yarn dev
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
